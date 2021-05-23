@@ -13,7 +13,7 @@ There are installation steps:
 2. Download the project files from this repository.
 3. Move the downloaded files to the local server directory.
 - If you have Laragon, you should move the files to C:/laragon/www (this is default directory for the local server in Laragon)
-4. Go to phpmyadmin or any tool to import a database. 
+4. Go to phpmyadmin or any tool to import a database to the local server. 
 5. Create a database and import **pineapple.sql** from [database](https://github.com/skilet16/pineapple-project/tree/main/database) directory.
 6. In [app/config/db_config.php](https://github.com/skilet16/pineapple-project/blob/main/app/config/db_config.php), change the database settings.
 - For Laragon, the default user is **root** and it has no password set.
