@@ -26,6 +26,6 @@ In this project, there are several pages which are **Home** and **Admin**.
 2. **Success** page will appear in - http://127.0.0.1/success
 2. You can access **Admin** page like this, just add **/admin** to the url - http://127.0.0.1/admin 
 
-## Credits
+## Creator
 - Creator of this project: Eriks Masinkis
 - Email: pilokmr@gmail.com
